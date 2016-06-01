@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="25px" viewBox="0 0 21 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>share</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-detail" transform="translate(-348.000000, -259.000000)">
+            <g id="share" transform="translate(345.000000, 257.000000)">
+                <g id="Layer_1">
+                    <polyline id="Shape" stroke="#979696" stroke-width="1.08000009" points="17.82 6.48 13.5 2.7 9.18 6.48"></polyline>
+                    <path d="M13.5,2.7 L13.5,18.18072" id="Shape" stroke="#979696" stroke-width="1.08000009"></path>
+                    <rect id="Rectangle-path" x="0" y="0" width="27" height="27"></rect>
+                    <polyline id="Shape" stroke="#979696" stroke-width="1.08000009" points="9.18 10.8 4.32 10.8 4.32 25.92 22.68 25.92 22.68 10.8 17.82 10.8"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
